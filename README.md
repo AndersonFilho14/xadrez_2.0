@@ -4,6 +4,9 @@ Este projeto é um motor de jogo de xadrez completo, desenvolvido em **Java 17**
 
 O diferencial deste projeto é a separação clara de domínios, garantindo que a lógica genérica de um tabuleiro seja independente das regras específicas do xadrez.
 
+Youtube: ```https://youtu.be/zY11x2ipWPM```
+
+
 ---
 
 ## 🚀 Funcionalidades
